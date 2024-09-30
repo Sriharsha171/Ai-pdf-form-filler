@@ -1,0 +1,4 @@
+fitz
+pdfplumber
+pytesseract
+Flask
