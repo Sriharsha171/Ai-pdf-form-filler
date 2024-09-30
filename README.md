@@ -21,5 +21,5 @@ Before running the project, ensure you have the following Python libraries insta
 Clone the repository:
 
    ```bash
-   git clone https://github.com/yourusername/AI_PDF_Filler.git
-   cd AI_PDF_Filler
+   git clone https://github.com/Sriharsha171/Ai-pdf-form-filler.git
+   cd Ai-pdf-form-filler
